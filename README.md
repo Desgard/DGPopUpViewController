@@ -5,7 +5,7 @@ DGPopUpViewController---卡片式弹出窗口
 
 ## Screenshot
 
-<img src="demo20.gif" alt="img" width="300px">
+<img src="demo20.gif" alt="img" width="240px">
 
 ## Description
 
